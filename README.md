@@ -1,12 +1,4 @@
 
-
-.checkbox-on {
-	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20width%3D%2216%22%20height%3D%2216%22%20fill%3D%22%2358A9D7%22%2F%3E%0A%3Cpath%20d%3D%22M6.71429%2012.2852L14%204.9995L12.7143%203.71436L6.71429%209.71378L3.28571%206.2831L2%207.57092L6.71429%2012.2852Z%22%20fill%3D%22white%22%2F%3E%0A%3C%2Fsvg%3E");
-}
-
-.checkbox-off {
-	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20x%3D%220.75%22%20y%3D%220.75%22%20width%3D%2214.5%22%20height%3D%2214.5%22%20fill%3D%22white%22%20stroke%3D%22%2336352F%22%20stroke-width%3D%221.5%22%2F%3E%0A%3C%2Fsvg%3E");
-}
 	
 </style></head><body><article id="ce2340fd-8226-4e50-86c1-80e6b26fd8fb" class="page sans"><header><div class="page-header-icon undefined"><span class="icon">🛠️</span></div><h1 class="page-title">The world of No-Code</h1></header><div class="page-body"><p id="15b76b72-fd27-4d09-a5af-ac66943a08a5" class="">No-code platforms provide a way to build web and mobile apps without writing code. Basically, you want to build an app (mobile, web, etc) but you don’t know how to code, so you use a platform to build it and deploy it. Instead of building your layout with code, you typically drag and drop components or parts of an application. For example, say you wanted to build a form. The form would collect a person’s first name, last name, and email. To do this in code, it would look something like this:</p><pre id="72e6cced-792e-4763-afab-9b7615db02d2" class="code"><code>&lt;form action=&quot;/action_page.php&quot;&gt;
   First name: &lt;input type=&quot;text&quot; name=&quot;fname&quot;&gt;&lt;br&gt;
